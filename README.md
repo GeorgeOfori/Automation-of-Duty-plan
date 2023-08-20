@@ -17,4 +17,4 @@ data_preprocessing:This covers the data preprocessing steps, such as handling mi
 baseline_model: this implements the baseline model, which is a simple approach like using a fixed number of standby drivers or a basic forecasting method.
 predictive_model: It focuses on developing an accurate predictive model that fulfills the business requirements, maximizing the activated standby drivers while minimizing instances of insufficient standby availability.
 Data:
-	sickness_table.csv contains the daily information on sickness counts, emergency calls, available standby resources, and additional driver requirements.
+ sickness_table.csv contains the daily information on sickness counts, emergency calls, available standby resources, and additional driver requirements.
