@@ -17,9 +17,13 @@ Dependencies:
 4. seaborn
 
 Project Files:
+
 data_exploration: This is where the initial data analysis is done, where the quality of the provided dataset is assessed and findings are visualized.
+
 data_preprocessing:This covers the data preprocessing steps, such as handling missing values, feature engineering, and preparing the dataset for modeling.
+
 baseline_model: this implements the baseline model, which is a simple approach like using a fixed number of standby drivers or a basic forecasting method.
+
 predictive_model: It focuses on developing an accurate predictive model that fulfills the business requirements, maximizing the activated standby drivers while minimizing instances of insufficient standby availability.
 
 Data:
