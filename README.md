@@ -4,8 +4,8 @@ Automation of Standby Duty Planning for Rescue Drivers via a Forecasting Model
 
 Problem Statement:
  The problem at hand is to develop a predictive model that maximizes the number of activated standby-drivers while minimizing the occurrence of having insufficient standbys available. The goal is to optimize resource allocation and ensure prompt response to emergency situations.
+ 
 Project Objectives:
-
 1.	Develop an accurate predictive model that forecasts the required number of standby-drivers based on historical data and relevant factors.
 2.	Maximize the utilization of standby-drivers by minimizing instances where there are inadequate standbys available.
 3.	Provide actionable insights and recommendations to improve resource allocation and emergency response efficiency.
