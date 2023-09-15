@@ -2,8 +2,9 @@
 
 ## project title
 
-[x] complete
-[] incomplete
+- [x] complete
+
+- [] incomplete
 
 **pla**
 
